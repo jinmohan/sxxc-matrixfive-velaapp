@@ -1,1 +1,48 @@
-{"item":{"name":"三相消除","description":"小米手环卡牌游戏（玩法类似羊了个羊）","preview":["preview0.png","preview1.png","preview2.png","preview3.png","preview4.png","preview5.png"],"icon":"icon.png","source_url":"","author":[]},"downloads":{"":{"version":"","file_name":"."},"n66":{"version":"1.0.0","file_name":"n66."},"n67":{"version":"1.0.0","file_name":"n67."},"o66":{"version":"1.0.0","file_name":"o66."},"o65":{"version":"1.0.0","file_name":"o65."},"o65m":{"version":"1.0.0","file_name":"o65m."}}}
+{
+  "item": {
+    "name": "三相消除",
+    "description": "小米手环上的养了个羊",
+    "preview": [
+      "preview0.png",
+      "preview1.png",
+      "preview2.png",
+      "preview3.png",
+      "preview4.png",
+      "preview5.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/jinmohan/sxxc-matrixfive-velaapp",
+    "author": [
+      {
+        "name": "MatrixFive",
+        "author_url": "https://matrixfive.online/"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.0.0",
+      "file_name": "sxxcn66mi91.0.rpk"
+    },
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "sxxcn67mi9pro1.0.rpk"
+    },
+    "o66": {
+      "version": "1.0.0",
+      "file_name": "sxxco66mi101.0.rpk"
+    },
+    "o66nfc": {
+      "version": "1.0.0",
+      "file_name": "sxxco66mi101.0.rpk"
+    },
+    "o65": {
+      "version": "1.0.0",
+      "file_name": "sxxco65rw51.0.rpk"
+    },
+    "o65m": {
+      "version": "1.0.0",
+      "file_name": "sxxco65rw51.0.rpk"
+    }
+  }
+}
